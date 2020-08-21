@@ -100,3 +100,23 @@ Essa página só pode ser acessada por um usuário logado. Caso o usuário não 
 5. Implementar loading em todas as páginas que esperam dados da API (lista de posts, detalhe de post, criação de post)
 
 _OBS_: Todos os desafios foram implementados. 
+
+
+
+### Como rodar a aplicação ▶️
+
+No terminal, clone o projeto:
+
+```
+git clone https://github.com/EloisaFagundes/4eddit
+```
+Navegue para dentro da raiz do projeto
+
+```
+cd 4eddit
+```
+Instale as dependências
+
+```
+npm i
+```
