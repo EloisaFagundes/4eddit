@@ -10,7 +10,7 @@ Desenvolvimento de aplicações completas, incluindo frontend Web com React e ba
 
 ## Projeto: 4eddit
 
-Site do projeto: [link](http://4eddit-sagan3.surge.sh/)
+Site do projeto: [link](http://4eddit-eloisa-labenu.surge.sh/)
 
 Documentação da API: [link](https://documenter.getpostman.com/view/674905/SzYXXKEE?version=latest#08adf102-4d87-4f70-9dc3-b3c321b29739)
 
